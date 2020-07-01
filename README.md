@@ -1,6 +1,6 @@
 # egg-demo
 
-API-based blog management system api service
+基于egg的博客管理系统api服务
 
 ## QuickStart
 
